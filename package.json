@@ -1,0 +1,22 @@
+{
+  "name": "lodown-tlaxin",
+  "version": "1.0.4",
+  "description": "My own NPM library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlaxin/lodown.git"
+  },
+  "author": "Taylor Meyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlaxin/lodown/issues"
+  },
+  "homepage": "https://github.com/tlaxin/lodown#readme"
+}
